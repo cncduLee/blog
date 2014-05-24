@@ -10,7 +10,7 @@
 		"其他": "posts"
 	},	
 	"perpage"   : 10,
-	"template"  : "pithiness",
+	"template"    : "default",
 	"types"     : {
 		"\\.(md||markdown)$"   : "markdown", 
 		"\\.(js||css||json)$"  : "code",
