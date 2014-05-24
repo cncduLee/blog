@@ -1,14 +1,15 @@
 {
 	"docs"      : {
-		"关于我的博客": "README.md",
-		"关于我": "RESUME.md",
-		"JAVA": "posts/gitpress",
+		"JAVA": "posts/java",
 		"Node.js": "posts/node.js",
 		"Erlang": "posts/erlang",
 		"Hadoop": "posts/hadoop",
+		"工具包": "posts/utils",
+		"关于我的博客": "README.md",
+		"关于我": "RESUME.md",
 		"其他": "posts"
 	},	
-	"perpage"   : 10,
+	"perpage"   : 5,
 	"template"    : "greyshade", // default、slate、tactile、phase、pithiness、greyshade
 	"types"     : {
 		"\\.(md||markdown)$"   : "markdown", 
