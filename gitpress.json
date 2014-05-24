@@ -18,8 +18,8 @@
 		".*"                   : "text"		
 	},
 	"title"  : "百墨",
-	"comment"  : "on",
 	"comment"  : {"type": "duoshuo", "short_name":"cncduLee"},
+	"comment"  : "on",
 	"friends"  : [
 		{
 		"name" : "月影MM",
